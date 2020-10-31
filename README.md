@@ -15,7 +15,7 @@ HOST=127.0.0.1 PORT=3000 node app.js
 ## Deploy
 
 ```bash
-sudo cp nodejsdemo.conf /etc/nginx/sites-enabled/
+sudo cp nginx.conf /etc/nginx/sites-enabled/
 
 sudo nginx -t
 sudo nginx -s reload
