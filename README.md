@@ -29,6 +29,6 @@ sudo /etc/init.d/nginx restart
 
 ## Reference
 
-https://docs.nginx.com/nginx/admin-guide/web-server/
+- [web-server](https://docs.nginx.com/nginx/admin-guide/web-server/)
 
-https://nodejs.org/en/docs/guides/getting-started-guide/
+- [nodejs-guide](https://nodejs.org/en/docs/guides/getting-started-guide/)
